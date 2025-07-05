@@ -23,7 +23,7 @@ We surveyed recent approaches, including conventional CNNs, U‑Net, YOLO+ResNet
 - **Augmentation:** Flip, rotate, random crop (50% probability on non‑mitosis)  
 - **Processing:** Resize → min–max normalize → binarize labels  
 
-**Model Architecture:** Vision Mamba (SSMs + cross‑scan, no attention), patch embedding → VIM encoder → MLP head :contentReference[oaicite:4]{index=4}
+**Model Architecture:** Vision Mamba (SSMs + cross‑scan, no attention), patch embedding → VIM encoder → MLP head
 
 ## 3. Results  
 5‑fold stratified CV:  
