@@ -1,7 +1,6 @@
 # Glioma Classification using Vision Mamba
 
-<img src="[https://github.com/A-Shenawy/Voice-Sentiment-Analysis/blob/main/VSA.PNG](https://github.com/A-Shenawy/glioma-classification-vision-mamba/blob/main/Glioma%20Classification%20using%20Vision%20Mamba.PNG?raw=true)" width="100%" style="background-size: cover;">
-
+<img src="https://github.com/A-Shenawy/glioma-classification-vision-mamba/blob/main/Glioma%20Classification%20using%20Vision%20Mamba.PNG?raw=true" width="100%" style="background-size: cover;">
 ---
 ## Project Overview  
 Fine-tune a Vision Mamba (VIM) model to classify mitosis vs. non‑mitosis in glioma histopathology.  
